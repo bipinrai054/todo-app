@@ -38,6 +38,7 @@ function App() {
         setStatus={setStatus}
       />
       <h1>List of Todos</h1>
+      <h2>Another one</h2>
       <TodoList
         filteredTodos={filteredTodos}
         setTodos={setTodos}
