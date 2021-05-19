@@ -37,6 +37,7 @@ function App() {
         setTodos={setTodos}
         setStatus={setStatus}
       />
+      <h1>List of Todos</h1>
       <TodoList
         filteredTodos={filteredTodos}
         setTodos={setTodos}
